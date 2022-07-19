@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crucial-respect-356402",
+  "private_key_id": "6f4d5f83def78761898f280ef0f02180ee946ec7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC5zDt3k7xVso86\nq4O4ow8pAvHPEhQon3LktFzOqSeswjFxQNgkEHJ6YdodzEk/9QKFRx7f3LzP/Oxd\neb4TKOM6REWy7shPxFEZ5xrMcUUEzWMTcLakmscZ6EIgafHFUhBdtU0vyqWHaxq1\naRT+ok74wi6T+3v/tOmhP9fobg4RyPbE4zRSOkQOnRIwToonCAXcuJYJ1cQ9eD/3\n1U//ELn2/obDmnW8+gBlzi/BO8ZpfdQQsfRIU4n+LwHo4zzI1LJHeifcPZ3TB0pa\nJ8SSCPkaC+zLSkDUlSAyhtCPg/7RU6sPV6SPEF5CHg5RhaM+G4pG9yElXrEZPTZl\neJkzRRLBAgMBAAECgf8s/0lnrF/wYU5O5zr/fH4vcIcfn0FClVs+CHBxnIX/UQio\nZQvzsAgJm6k3jkIvOydhH9haXxtbQ+X6vYFLIpvlgKNgsnPQ3brGizHyUXxlrVhR\nXPre4p1VqOpa702efEF6cG5BJNLx+P5+8PQktyppFJ4zOLTPOQFcDBo+MGk35Qo4\nnGW8z2o6AtZp9eFKZJUYQUX+m61S5gPK9wc4VAfknKolDg3HL0o8pP+coNvo+PLw\n5V+tcVPn8r0N/KIUJaQjeksd6IQXySg+d7hamDjHtwH7+236KknAJvXb9BazWynL\n1Vm9qGBcPRxVqnDo4MYLcYCjEPFjsOtu+TqvFaECgYEA3SImc+TuokJcw4MSfrJu\nkc6KzFfaKVY459kMXlWaHZih/rF+qY8bDeKkrpseTRFKpXyYZJbcNqJcFFYvOHpk\nOaaSjyboaNOQiLT5SSapgfCvZZut7HDR/1lrL885RpBSrEZywSNcM1pVXfUROXjY\nFGVFCEqy3ZI45WDu63u1VW0CgYEA1xfKtrrjxs6fAplsYSDkTOFuVQ1PiqsQhtBq\ntxd5tDqsz0TQp7Uk3CBV87QLA4Ivoox7W8beh5iet+JJ84UGReabfXqxj9TtdzMe\nHTBEUHPyDI6ev+mQfAjWoLRCrUuN8cTHYQyzrvXCnXpH64YCtCLdQdAQqFsb0IDZ\nhddMYiUCgYAKtaqzFjVQenJPrbtpk26zdRNXzjFsqxZadDKbJv4tzMSbtzDxOVMQ\nGxfqtOyEwv+ggCZJSN0lcDuRaJMk4xiTijOy5yl+WjC3zjv8hPjUqDl2bFHCD7y7\n5zK/wAOAHWFDoq3QGMxQWGGmCUZqSCX+5uCvBB8hiAFlaopnsTgZCQKBgBDxFMxz\nyAEewTOJNhooZxMPJouYcs1vT+vueplVRgbGIFprByxOfkrAWUTKx5tNI8df3U+L\nSHfRs560OjLuJWJYGaM2iMnVcabT5elSpe7YUxZeHW7sTK8YWx9pU18m9lU2tKWW\nRIjhXqTcvtF0Sr45iMfoRYedNYGkxH1gSenpAoGBAKwEs5cmhKTn5396ZZ7bvMqO\ncMKTiml4dOrsavwv9HYvQS+gbRRx4tG6+dFmSDUcEt6BcAXbMY/xDu0W2CcAErrC\n+iAKEZYsuVP4QmUw5PKNwzXkaLhpZ8xdacut2PoElPCKxSNVOly3ykwnRmZpVg+W\nt9mqZar7jOMR/oraGVcQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "srvacc1@crucial-respect-356402.iam.gserviceaccount.com",
+  "client_id": "104489046979892915918",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/srvacc1%40crucial-respect-356402.iam.gserviceaccount.com"
+}
